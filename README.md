@@ -10,4 +10,4 @@ Data cleaning: The data was extracted and checked for duplications, typos, null 
  3. What fuel type vehicles across models are performing well?
  4. What are the fuel type and transimission preferences across regions?
 
-Please refer document file "BMW reseach" for inferences, visualisation snippets, analysis, and conclusion
+Please refer document file "BMW reseach" for inferences, visualisation snippets, analysis, and conclusion.
